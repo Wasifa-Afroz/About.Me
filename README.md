@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/900x200.png?text=Wasifa+Afroz+|+Web+%26+AI+Developer" alt="Wasifa Afroz Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Wasifa+Afroz;Web+Developer+%7C+AI+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ## 👋 Hello, I’m Wasifa Afroz
@@ -15,7 +15,7 @@ Focused on clarity, documentation, and practical results.
 
 <p align="center">
   <!-- Replace icons list with your own tools -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,opencv,huggingface,pytorch" alt="My Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,opencv,Huggingface,pytorch" alt="My Skills Icons" />
 </p>
 
 - **Languages & Frameworks:** HTML, CSS, JavaScript, React, Node.js  
@@ -32,7 +32,7 @@ Focused on clarity, documentation, and practical results.
 | **Real-time Object Detection** | Runs YOLOv8 in webcam or video for detecting objects in real-time | YOLOv8, Python, performance & FPS display, accuracy reporting |
 | **Image to Speech AI** | Converts images into spoken audio (accessibility / multi-modal demo) | Hugging Face, TTS model, image processing pipeline |
 | **HuggingFace Object Detection** | Training/inference with Hugging Face tools on custom datasets | Dataset handling, model evaluation, clean code structure |
-| *(Add a web project here, if possible)* | Example: a dashboard or full-stack app | Frontend + Backend + Deployment |
+| **Online Shopping System** | Full-stack app | Frontend + Backend + Database |
 
 ---
 
@@ -62,9 +62,9 @@ Focused on clarity, documentation, and practical results.
 ## 📬 Connect with Me
 
 - **GitHub:** [Wasifa-Afroz](https://github.com/Wasifa-Afroz)  
-- **Email:** your.email@example.com *(replace with your professional contact)*  
-- **LinkedIn / Portfolio:** *add your profile link here*  
+- **Email:** wasifaafroz.pe@example.com   
+- **LinkedIn:** www.linkedin.com/in/wasifa-a-20b607277
 
 ---
 
-*This profile README is built to highlight my focus on web development + AI. AR content is intentionally excluded.*  
+
